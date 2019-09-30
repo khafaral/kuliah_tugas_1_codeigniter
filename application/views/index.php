@@ -10,7 +10,7 @@
     <table border="1">
         <tr>
             <th>NIK</th>
-            <td><?php echo $nik;?></td>
+            <td><?php echo $nim;?></td>
         </tr>
         <tr>    
             <th>Nama</th>
